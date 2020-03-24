@@ -1,0 +1,9 @@
+首先在exe文件下准备三个文件夹分别名为“src_code_pic”“result_pic”“video”打开exe按照提示进行。拍摄到的视频需命名为tmp.mp4，放在video目录下
+
+
+
+
+
+
+
+详情见Vedio。

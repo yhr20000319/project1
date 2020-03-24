@@ -1,0 +1,23 @@
+﻿D:\Visual stadio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(network_project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  decoding.cpp
+c:\users\admin\source\repos\projetct_1\projetct_1\decoding.cpp(238): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\admin\source\repos\projetct_1\projetct_1\decoding.cpp(245): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\admin\source\repos\projetct_1\projetct_1\decoding.cpp(356): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\admin\source\repos\projetct_1\projetct_1\decoding.cpp(450): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  projetct_1.vcxproj -> C:\Users\admin\source\repos\projetct_1\x64\Debug\projetct_1.exe

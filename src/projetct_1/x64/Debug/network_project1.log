@@ -1,0 +1,16 @@
+﻿  decode.cpp
+c:\users\admin\source\repos\network_project1\network_project1\decode.cpp(128): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\admin\source\repos\network_project1\network_project1\decode.cpp(148): warning C4244: “参数”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\admin\source\repos\network_project1\network_project1\decode.cpp(196): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\admin\source\repos\network_project1\network_project1\decode.cpp(197): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\admin\source\repos\network_project1\network_project1\decode.cpp(208): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\admin\source\repos\network_project1\network_project1\decode.cpp(209): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  encode.cpp
+c:\users\admin\source\repos\network_project1\network_project1\encode.cpp(30): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+c:\users\admin\source\repos\network_project1\network_project1\encode.cpp(110): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  network_project1.vcxproj -> C:\Users\admin\source\repos\network_project1\x64\Debug\network_project1.exe
